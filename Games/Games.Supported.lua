@@ -1,6 +1,6 @@
 return {
     {
-        Title = "C",
+        Title = "Só um minuto.",
         Desc = "Jogo principal",
         Locked = false,
         Callback = function()
