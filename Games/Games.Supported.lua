@@ -6,5 +6,13 @@ return {
         Callback = function()
             game:GetService("TeleportService"):Teleport(79546208627805)
         end
+    },
+    {
+        Title = "Brookhaven 🏡RP",
+        Desc = "Clique para ir para 'Brookhaven 🏡RP'",
+        Locked = false,
+        Callback = function()
+            game:GetService("TeleportService"):Teleport(4924922222)
+        end
     }
 }
